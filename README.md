@@ -1,2 +1,20 @@
-# PowerBI-dashBoards(analytical-dashboards)
- PowerBI Analytical Dashboards This repository showcases a collection of analytical dashboards created using PowerBI. These dashboards are designed to visualize complex datasets and provide insightful analysis for decision-making.  Key Features: Interactive Visualizations: Custom-built reports with interactive filters and slicers for a dynamic user experience. Data Analysis: Use of PowerBI’s powerful data modeling tools to analyze and interpret large datasets. Custom Metrics: Creation of custom KPIs and measures to highlight key business metrics and trends. User-Friendly: Dashboards designed with an intuitive layout for easy access to critical insights.
+
+# PowerBI Analytical Dashboards
+
+This repository contains **PowerBI analytical dashboards** created in my first year. The dashboards are designed to visualize complex datasets, providing insights through interactive charts and custom KPIs. They help in data-driven decision-making and are a demonstration of my PowerBI skills.
+
+## Dashboards
+
+### Finance Dashboard
+This dashboard provides a comprehensive view of financial performance, including key metrics like revenue, expenses, and profit margins.
+
+![Finance Dashboard Page 1](./images/Finance_Dashboard_page_1.png)
+![Finance Dashboard Page 2](./images/Finance_Dashboard_page_2.png)
+
+
+### Sales Dashboard
+This dashboard tracks sales performance, analyzing trends, goals, and regional performance.
+
+![Sales Dashboard Page 1](./images/Sales_Dashboard_page_1.png)
+![Sales Dashboard Page 2](./images/Sales_Dashboard_page_2.png)
+![Sales Dashboard Page 3](./images/Sales_Dashboard_page_3.png)
