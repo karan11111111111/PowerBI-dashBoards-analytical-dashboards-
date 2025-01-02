@@ -1,5 +1,5 @@
 
-# PowerBI Analytical Dashboards
+## PowerBI Analytical Dashboards
 
 This repository contains **PowerBI analytical dashboards** created in my first year. The dashboards are designed to visualize complex datasets, providing insights through interactive charts and custom KPIs. They help in data-driven decision-making and are a demonstration of my PowerBI skills.
 
